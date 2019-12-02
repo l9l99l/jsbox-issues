@@ -8,6 +8,8 @@ That's why these rules are set, and we do appreciate it if you can respect them.
 
 Note that, rules are defined by human beings, it's flexible, but follow them does make both our lives better.
 
+Besides, it's recommended to use English through all scenarios, to make more people understand. However, we respect if you use your mother language.
+
 ## File a bug
 
 ### Before submitting a bug report
