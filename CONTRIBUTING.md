@@ -14,11 +14,11 @@ Note that, rules are defined by human beings, it's flexible, but follow them doe
 
 Here is a checklist which may be very helpful, it even can solve your issue automatically sometimes :)
 
-- [] I searched it on this repo, and there are no duplicated reports
-- [] I searched it on the web, and there's no workaround
-- [] I confirmed, it is most likely not a JavaScript issue, I cannot repro on other platforms
-- [] I am using the latest version of JSBox, I installed it on the [App Store](https://apps.apple.com/us/app/id1312014438)
-- [] I am not using a jailbroken iOS device, at least there are no tweaks that may be related
+- [ ] I searched it on this repo, and there are no duplicated reports
+- [ ] I searched it on the web, and there's no workaround
+- [ ] I confirmed, it is most likely not a JavaScript issue, I cannot repro on other platforms
+- [ ] I am using the latest version of JSBox, I installed it on the [App Store](https://apps.apple.com/us/app/id1312014438)
+- [ ] I am not using a jailbroken iOS device, at least there are no tweaks that may be related
 
 ### Submitting a bug report
 
@@ -45,11 +45,11 @@ The philosophy is that the information should be **complete**, and not **mislead
 
 We all love new features! That's that simple, but we still have a checklist that you can check:
 
-- [] I searched it on this repo, and there are no duplicated reports
-- [] I double-checked the [docs](https://docs.xteko.com/#/en/), confirmed it's not provided
-- [] I searched it on the web, and there's no way to implement it with some APIs combined
-- [] I believe it's not a feature that only benefits myself
-- [] I believe it's legal, and compliant with the [App Store Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)
+- [ ] I searched it on this repo, and there are no duplicated reports
+- [ ] I double-checked the [docs](https://docs.xteko.com/#/en/), confirmed it's not provided
+- [ ] I searched it on the web, and there's no way to implement it with some APIs combined
+- [ ] I believe it's not a feature that only benefits myself
+- [ ] I believe it's legal, and compliant with the [App Store Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)
 
 We know it's hard to confirm the last two, but keep in mind, if you know you are doing something that is not so decent, please don't :)
 

@@ -12,9 +12,9 @@ Thanks for providing feedback! We really appreciate your contribution, either bu
 
 To make the process smoother, here are some instructions that we do suggest you take a look before taking any action:
 
-- [File a bug](CONTRIBUTING#file-a-bug)
-- [Request a new feature](CONTRIBUTING#request-a-new-feature)
-- [Search issues](CONTRIBUTING#search-issues)
+- [File a bug](CONTRIBUTING.md#file-a-bug)
+- [Request a new feature](CONTRIBUTING.md#request-a-new-feature)
+- [Search issues](CONTRIBUTING.md#search-issues)
 
 ## General discussions
 

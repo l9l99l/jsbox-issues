@@ -12,9 +12,9 @@
 
 为了让整个流程更流畅，这里有一些指南，在做出实际的提交之前，我们强烈建议您阅读：
 
-- [提交缺陷反馈](CONTRIBUTING_CN#提交缺陷反馈)
-- [提交新特性建议](CONTRIBUTING_CN#提交新特性建议)
-- [搜索已有的反馈](CONTRIBUTING_CN#搜索已有的反馈)
+- [提交缺陷反馈](CONTRIBUTING_CN.md#提交缺陷反馈)
+- [提交新特性建议](CONTRIBUTING_CN.md#提交新特性建议)
+- [搜索已有的反馈](CONTRIBUTING_CN.md#搜索已有的反馈)
 
 ## 一般讨论
 
