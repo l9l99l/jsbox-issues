@@ -16,6 +16,8 @@
 - [提交新特性建议](CONTRIBUTING_CN.md#提交新特性建议)
 - [搜索已有的反馈](CONTRIBUTING_CN.md#搜索已有的反馈)
 
+如果您准备好了，请通过 [创建 Issue](https://github.com/cyanzhong/jsbox-issues/issues/new) 的方式来提交缺陷反馈或新特性建议。
+
 ## 一般讨论
 
 对于更广泛的讨论，我们提供了这些渠道：

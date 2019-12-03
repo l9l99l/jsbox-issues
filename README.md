@@ -16,6 +16,8 @@ To make the process smoother, here are some instructions that we do suggest you 
 - [Request a new feature](CONTRIBUTING.md#request-a-new-feature)
 - [Search issues](CONTRIBUTING.md#search-issues)
 
+If you are ready, feel free to [open an issue](https://github.com/cyanzhong/jsbox-issues/issues/new) for bug reports and feature requests.
+
 ## General discussions
 
 For general discussions, here are some channels:
