@@ -4,7 +4,7 @@
 
 As a developer tool, we want to track bugs and feature requests using a developer way, hence this repository is created.
 
-If you have no context about what JSBox is, you can probably went to a wrong place, and [this repo](https://github.com/cyanzhong/xTeko) can give you a brief idea, it is also available on the [App Store](https://apps.apple.com/us/app/id1312014438).
+If you have no context about what JSBox is, you probably went to a wrong place, and [this repo](https://github.com/cyanzhong/xTeko) can give you a brief idea, it is also available on the [App Store](https://apps.apple.com/us/app/id1312014438).
 
 ## Contributing
 
